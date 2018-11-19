@@ -1,4 +1,4 @@
-#Write a shell script, to swap the values of two variables.
+#Write a shell script, to find GCD for two given numbers.
 #!/bin/bash
 read -p "Enter two numbers: " a b
 for ((i=1;i<=a && i<=b;i++))
